@@ -1,3 +1,20 @@
+
+### APLICACIÓN WEB DE MACHINE LEARNING E INTELIGENCIA ARTIFICIAL PARA LA IDENTIFICACIÓN DE FACTORES CRÍTICOS EN SINIESTROS VIALES PARA PROMOVER ESTRATEGIAS DE SEGURIDAD EN BOGOTÁ
+
+Este proyecto tiene como objetivo realizar una aplicación web en la que se muestren los resultados de un estudio estadístico y de la aplicación de un modelo de inteligencia artificial a un historico de datos de Siniestros viales de la ciudad de Bogota del año 2015 al 2021 con el que se puedan obtener factores críticas con mayor incidencia en la presentación de los accidentes y con esto plantear estrategias que mejoren la seguridad en temas viales para la ciudad.
+
+### Contenido
+
+- Limpieza y Preparación de Datos:
+  https://github.com/Sebastian-MG/ACCIDENTES-TRANSITO-BOGOT-/blob/main/Accidentes_Estadisticas.ipynb
+
+- Visualización de Datos y generación de Gráficos:
+  https://github.com/Sebastian-MG/ACCIDENTES-TRANSITO-BOGOT-/blob/main/Accidentes_localidad.ipynb
+
+- Modelo y Entrenamiento Predicción Gravedad de Accidentes:
+  https://github.com/Sebastian-MG/ACCIDENTES-TRANSITO-BOGOT-/blob/main/machine_learning.ipynb
+
+
 ### Guía de Uso
 A continuación, se detalla cómo instalar y utilizar la aplicación.
 
